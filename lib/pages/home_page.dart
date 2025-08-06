@@ -4,6 +4,7 @@ import 'package:flutter/material.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'package:todo_lisha/global.dart';
 import 'package:todo_lisha/pages/task_page.dart';
+import 'package:todo_lisha/services/auth_services.dart';
 import 'package:todo_lisha/widgets/task_tile.dart';
 
 int priorityValue(String p) {
@@ -147,6 +148,13 @@ class _HomePageState extends State<HomePage> {
             fontWeight: FontWeight.w500,
           ),
         ),
+        actions: [
+          TextButton(
+            onPressed: () => AuthServices().signOut(context),
+            child: Text("Logout", style: TextStyle(color: Colors.white)),
+          ),
+          const SizedBox(width: 10),
+        ],
       ),
       body: Column(
         children: [

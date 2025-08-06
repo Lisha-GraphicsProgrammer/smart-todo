@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "644151672202",
+    "project_id": "smart-todo-57966",
+    "storage_bucket": "smart-todo-57966.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:644151672202:android:745c3b571d4175a2c79c73",
+        "android_client_info": {
+          "package_name": "com.example.todo_lisha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "644151672202-0k4irk4skaes2enpa08l1g942rlkvf93.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPwfikHeGD65XEEmPjdfPWF3_uudN9vP4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "644151672202-0k4irk4skaes2enpa08l1g942rlkvf93.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
