@@ -16,11 +16,11 @@ Smart Todo is a clean and simple to-do app with Google Sign-In, local task stora
 
 ## Demo Video
 
-[Loom Video Walkthrough](https://www.loom.com/share/your-video-id)
+[Video Walkthrough](https://drive.google.com/file/d/1-1Z7QcCZ1OTrE1xiBKa_UiHyEN4q0O2P/view?usp=sharing)
 
 ## APK Download
 
-[Download the latest APK here](https://your-link.com)
+[Download the latest APK here](https://drive.google.com/file/d/1A-KxiE9z5k6ObbWRfviWf-ObAeQqywOE/view?usp=sharing)
 
 ## Assumptions
 
