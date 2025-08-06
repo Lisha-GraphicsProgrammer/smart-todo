@@ -1,16 +1,40 @@
-# todo_lisha
+# Smart Todo App
 
-A new Flutter project.
+Smart Todo is a clean and simple to-do app with Google Sign-In, local task storage, and smart categorization (Upcoming, Past Due, Completed).
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- ✅ Google Sign-In
+- ✅ Add, Edit, Delete tasks
+- ✅ Task Priority and Due Date
+- ✅ Smart Task Grouping
+- ✅ Local Storage with Shared Preferences
 
-A few resources to get you started if this is your first Flutter project:
+## Architecture
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![App Architecture](assets/images/arch.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Demo Video
+
+[Loom Video Walkthrough](https://www.loom.com/share/your-video-id)
+
+## APK Download
+
+[Download the latest APK here](https://your-link.com)
+
+## Assumptions
+
+- Only Google Sign-In is supported.
+- Data is stored locally.
+- No cloud sync or backend so far.
+
+## Tools Used
+
+- Flutter
+- Firebase Auth
+- Shared Preferences
+- ChatGPT (for guidance and architecture)
+
+---
+
+This project is a part of a hackathon run by [https://www.katomaran.com](https://www.katomaran.com)
